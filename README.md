@@ -45,7 +45,7 @@ SQLite table `pmms_rates`:
 ## Dependencies
 
 - Python 3.6+
-- `requests` library
+- `requests` library (install with: `pip install -r requirements.txt`)
 
 ## Data Source
 
